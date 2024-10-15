@@ -1,0 +1,6 @@
+{
+	"name": "Spamtracks",
+	"description": "Contains mostly Bambi Spamtracks",
+	"restart":false,
+	"color": [170, 0, 255]
+}

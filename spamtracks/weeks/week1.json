@@ -1,0 +1,50 @@
+{
+	"storyName": "Spamtracks pt1",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"the-j",
+			"screwed",
+			[
+				0,
+				175,
+				0
+			]
+		],
+		[
+			"prismless",
+			"screwed",
+			[
+				0,
+				175,
+				0
+			]
+		],
+		[
+			"my-printer-just-exploded",
+			"screwed",
+			[
+				0,
+				175,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
